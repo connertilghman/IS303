@@ -48,7 +48,6 @@ def main():
     print("  G = right letter, right place")
     print("  Y = right letter, wrong place")
     print("  - = letter is not in the word")
-    print()
  
     play_again = "yes"
     while play_again == "yes":
